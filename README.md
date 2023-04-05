@@ -1,1 +1,2 @@
 # EvenTicketOneScratchPortfolio
+My portfolio that will keep updating throughout the course to make it better as I learn more coding and expand my knowledge in all the languages. It is simple now, but I will keep working on it to make it more complex as we learn more in class!
